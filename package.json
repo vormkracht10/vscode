@@ -1,0 +1,33 @@
+{
+    "name": "vormkracht10",
+    "displayName": "Vormkracht10",
+    "description": "Extension pack for Vormkracht10 team",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "aaron-bond.better-comments",
+        "alefragnani.project-manager",
+        "bmewburn.vscode-intelephense-client",
+        "bradlc.vscode-tailwindcss",
+        "calebporzio.better-phpunit",
+        "calebporzio.simple-php-cs-fixer",
+        "cjhowe7.laravel-blade",
+        "eamodio.gitlens",
+        "fterrag.vscode-php-cs-fixer",
+        "konstantinkai.vscode-css-to-stylus",
+        "MehediDracula.php-namespace-resolver",
+        "mikestead.dotenv",
+        "mrmlnc.vscode-duplicate",
+        "ms-vsliveshare.vsliveshare",
+        "neilbrayfield.php-docblocker",
+        "octref.vetur",
+        "richie5um2.vscode-sort-json",
+        "sysoev.language-stylus",
+        "vincaslt.highlight-matching-tag"
+    ]
+}
