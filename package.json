@@ -1,6 +1,7 @@
 {
     "name": "vormkracht10",
     "displayName": "Vormkracht10",
+    "icon": "logo.png",
     "description": "Extension pack for Vormkracht10 team",
     "version": "0.0.1",
     "engines": {
@@ -9,6 +10,10 @@
     "categories": [
         "Extension Packs"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vormkracht10/vscode"
+    },
     "extensionPack": [
         "aaron-bond.better-comments",
         "alefragnani.project-manager",
