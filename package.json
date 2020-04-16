@@ -1,39 +1,42 @@
 {
-    "name": "vormkracht10",
-    "displayName": "Vormkracht10",
-    "publisher": "vormkracht10",
-    "icon": "logo.png",
-    "description": "Extension pack for Vormkracht10 team",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.43.0"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/vormkracht10/vscode"
-    },
-    "extensionPack": [
-        "aaron-bond.better-comments",
-        "alefragnani.project-manager",
-        "bmewburn.vscode-intelephense-client",
-        "bradlc.vscode-tailwindcss",
-        "calebporzio.better-phpunit",
-        "calebporzio.simple-php-cs-fixer",
-        "cjhowe7.laravel-blade",
-        "eamodio.gitlens",
-        "fterrag.vscode-php-cs-fixer",
-        "konstantinkai.vscode-css-to-stylus",
-        "MehediDracula.php-namespace-resolver",
-        "mikestead.dotenv",
-        "mrmlnc.vscode-duplicate",
-        "ms-vsliveshare.vsliveshare",
-        "neilbrayfield.php-docblocker",
-        "octref.vetur",
-        "richie5um2.vscode-sort-json",
-        "sysoev.language-stylus",
-        "vincaslt.highlight-matching-tag"
-    ]
+	"name": "vormkracht10",
+	"displayName": "Vormkracht10",
+	"publisher": "vormkracht10",
+	"icon": "logo.png",
+	"description": "Extension pack for Vormkracht10 team",
+	"version": "0.0.2",
+	"engines": {
+		"vscode": "^1.43.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/vormkracht10/vscode"
+	},
+	"extensionPack": [
+		"aaron-bond.better-comments",
+		"alefragnani.project-manager",
+		"bmewburn.vscode-intelephense-client",
+		"bradlc.vscode-tailwindcss",
+		"calebporzio.better-phpunit",
+		"calebporzio.simple-php-cs-fixer",
+		"cjhowe7.laravel-blade",
+		"dbaeumer.vscode-eslint",
+		"eamodio.gitlens",
+		"esbenp.prettier-vscode",
+		"fterrag.vscode-php-cs-fixer",
+		"konstantinkai.vscode-css-to-stylus",
+		"MehediDracula.php-namespace-resolver",
+		"mikestead.dotenv",
+		"mrmlnc.vscode-duplicate",
+		"ms-vsliveshare.vsliveshare",
+		"neilbrayfield.php-docblocker",
+		"octref.vetur",
+		"onecentlin.laravel-blade",
+		"richie5um2.vscode-sort-json",
+		"sysoev.language-stylus",
+		"vincaslt.highlight-matching-tag"
+	]
 }
