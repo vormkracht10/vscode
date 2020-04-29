@@ -38,5 +38,8 @@
 		"richie5um2.vscode-sort-json",
 		"sysoev.language-stylus",
 		"vincaslt.highlight-matching-tag"
-	]
+	],
+	"dependencies": {
+		"prettier": "^2.0.5"
+	}
 }
